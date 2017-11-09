@@ -1,10 +1,6 @@
 # CodeLou_FrontEnd
 
-# Description
-
-
-
-# Custom CSS Classes
+# H1 Description
 ```
 
 
@@ -12,7 +8,15 @@
 
 
 
-# Custom JavaScript Functions
+# H1 Custom CSS Classes
+```
+
+
+```
+
+
+
+# H1 Custom JavaScript Functions
 ```
 
 
